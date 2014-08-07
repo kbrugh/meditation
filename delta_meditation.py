@@ -5,17 +5,14 @@
 # concept is that your brain will recognize the pattern. Many, many times.
  
 import os, random, time
-Hz = .125
  
 def lucid(meditation):
-    for i in xrange(0, int(timemax)):
-        time.sleep(Hz)
+    for i in xrange(0, 30000):
+        time.sleep(.25)
         print os.urandom(256), meditation, os.urandom(random.randint(0, 256)).replace("?", "x")
 
  
 if __name__ == '__main__':
     meditation = raw_input("Enter your meditation: ")
-    timer = raw_input("Enter your time, in minutes: ")
-    timemax = (int(timer) * 60) / Hz
     lucid(meditation)
 	

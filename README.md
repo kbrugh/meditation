@@ -7,7 +7,7 @@ By Keenan Brugh
 
 This application allows you to program your own mind. This "meta-programming" works by quickly cycling through user-defined meditations mixed in with a flow of randomly-generated characters.  
 
-The concept is combining inspirations from ancient cultural traditions (such as repeating mantras), to the more modern concepts of neurolinguistic programming and positive affirmations. The printing will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." or "Learn and Grow."
+The concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the more modern concepts of neurolinguistic programming (positive affirmations). The printing will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." or "Learn and Grow."
 
 This app also lets you select a desired target brainwave frequency. (Simply affects the print rate)
 For some examples, you can choose a relaxing 10Hz alpha state or an energizing 27Hz gamma state.

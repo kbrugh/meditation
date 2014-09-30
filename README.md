@@ -19,10 +19,15 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ==========
 
-NOTES on the use of both ancient meditation and NLP techniques as inspiration:
+NOTES on the use of non-scientific techniques:
 
-Ancient meditation practices, NLP and brainwave entrainment may or may not be as "effective" as others have claimed. Some critics have accurately and dismissed their potential by labelling them "pseudoscience." 
+This app does not make any medical or theraputic claims. Rather, the goal of this app is to provide a tool for personal reflection and self-improvement.
 
-This app does not make any medical or theraputic claims. Rather, the goal of this app is to provide a tool for personal reflection and self-improvement. At the very least, placebos are a scientific reality. which is why the PLACEBO EFFECT MUST BE TAKEN INTO ACCOUNT in scientific studies. Personally, I have always been a fan of science. However, if I were to entertain a counter perspective, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
+Ancient meditation practices, neurolinguistic programming (NLP) and brainwave entrainment may or may not be as "effective" as some of their proponents have claimed. Some critics have accurately refuted certain claims, though an outright dismissal of their potential by labelling them "pseudoscience" ignores the history of scientific discovery. Radical scientific discovery doesn't always fit neatly within exisiting paradigms. We might as well just play around!
+
+At the very least, placebos ARE a verifiable reality. This is why the PLACEBO EFFECT MUST BE TAKEN INTO ACCOUNT in scientific studies. 
+
+Personally, I have always been a fan of science. However, if I were to entertain a counter perspective, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
+
 https://en.wikipedia.org/wiki/Placebo
 https://en.wikipedia.org/wiki/Epistemological_anarchism

@@ -5,7 +5,7 @@ Matrix Meditation App
 ---Prototype 2014---
 By Keenan Brugh
 
-This application allows you to program your own mind. This "meta-programming" works by quickly cycling through user-defined meditations mixed in with a flow of randomly-generated characters.  
+This application allows you to program your own mind. This "meta-programming" works by quickly cycling through user-defined meditations mixed in with a flow of randomly-generated characters. Use it to induce states of hypnotic relaxation or highly productive periods of focused thinking.
 
 The concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the more modern concepts of neurolinguistic programming (positive affirmations). The printing will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." or "Learn and Grow."
 
@@ -19,7 +19,7 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ==========
 
-NOTES on the use of scientifically unverifiable techniques:
+NOTES on the use of scientifically unverified techniques:
 
 This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a new tool for meditation, personal reflection and self-improvement.
 

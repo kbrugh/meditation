@@ -5,7 +5,7 @@ Matrix Meditation App
 ---Prototype 2014---
 By Keenan Brugh
 
-This application allows you to program your own mind. "Meta-programming", so to speak. It works by running through a shell command line in a console/terminal window and printing out user-defined meditations mixed in with a flow of randomly-generated characters. 
+This application allows you to program your own mind. This "meta-programming" works by quickly cycling through user-defined meditations mixed in with a flow of randomly-generated characters.  
 
 The concept is combining inspirations from ancient cultural traditions (such as repeating mantras), to the more modern concepts of neurolinguistic programming and positive affirmations. The printing will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." or "Learn and Grow."
 
@@ -27,7 +27,7 @@ Ancient meditation practices, neurolinguistic programming (NLP) and brainwave en
 
 At the very least, we know placebos ARE a verifiable reality. This is why the PLACEBO EFFECT MUST BE TAKEN INTO ACCOUNT in scientific studies if they are to be generally accepted. 
 
-Personally, I have always been a fan of the scientific method. However, when it comes to advancing neurotechnology, let's all just admit we don't that much yet. If I were to entertain a perspective counter to mainstream science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
+Personally, I have always been a fan of the scientific method. However, when it comes to advancing neurotechnology, let's all just admit we are still in the early stages of knowledge. Why preclude the development of potentially paradigm-shifting tools just because we're still learning? If I were to entertain a perspective counter to mainstream science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
 
 https://en.wikipedia.org/wiki/Placebo
 

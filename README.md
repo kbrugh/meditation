@@ -19,7 +19,8 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ==========
 
-Notes on the use of both ancient meditation and NLP techniques as inspiration:
+NOTES on the use of both ancient meditation and NLP techniques as inspiration:
+
 Ancient meditation practices, NLP and brainwave entrainment may or may not be as "effective" as others have claimed. Some critics have accurately and dismissed their potential by labelling them "pseudoscience." 
 
 This app does not make any medical or theraputic claims. Rather, the goal of this app is to provide a tool for personal reflection and self-improvement. At the very least, placebos are a scientific reality. which is why the PLACEBO EFFECT MUST BE TAKEN INTO ACCOUNT in scientific studies. Personally, I have always been a fan of science. However, if I were to entertain a counter perspective, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."

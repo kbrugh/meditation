@@ -14,20 +14,23 @@ For some examples, you can choose a relaxing 10Hz alpha state or an energizing 2
 https://en.wikipedia.org/wiki/Neural_oscillation
 https://en.wikipedia.org/wiki/Brainwave_entrainment
 
-This app also accepts a timer variable for precise productivity.
+This app also accepts a minutes variable for precisely timed sessions.
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ==========
 
-NOTES on the use of non-scientific techniques:
+NOTES on the use of scientifically unverifiable techniques:
 
-This app does not make any medical or theraputic claims. Rather, the goal of this app is to provide a tool for personal reflection and self-improvement.
+This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a new tool for meditation, personal reflection and self-improvement.
 
-Ancient meditation practices, neurolinguistic programming (NLP) and brainwave entrainment may or may not be as "effective" as some of their proponents have claimed. Some critics have accurately refuted certain claims, though an outright dismissal of their potential by labelling them "pseudoscience" ignores the history of scientific discovery. Radical scientific discovery doesn't always fit neatly within exisiting paradigms. We might as well just play around!
+Ancient meditation practices, neurolinguistic programming (NLP) and brainwave entrainment may or may not be as "effective" as some of their proponents have claimed. Some critics have accurately refuted certain claims, however, an outright dismissal of their potential by labelling them "pseudoscience" ignores the history of scientific discovery. Radical scientific discovery doesn't always fit neatly within existing paradigms. We might as well just play around!
 
 At the very least, placebos ARE a verifiable reality. This is why the PLACEBO EFFECT MUST BE TAKEN INTO ACCOUNT in scientific studies. 
 
-Personally, I have always been a fan of science. However, if I were to entertain a counter perspective, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
+Personally, I have always been a fan of the scientific method. However, when it comes to neurotechnology, let's all just admit we don't that much yet. If I were to entertain a perspective counter to mainstream science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
 
 https://en.wikipedia.org/wiki/Placebo
+
 https://en.wikipedia.org/wiki/Epistemological_anarchism
+
+

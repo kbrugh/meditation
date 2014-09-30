@@ -12,6 +12,7 @@ The concept is combining diverse inspirations ranging from ancient cultural trad
 This app also lets you select a desired target brainwave frequency. (Simply affects the print rate)
 For some examples, you can choose a relaxing 10Hz alpha state or an energizing 27Hz gamma state.
 https://en.wikipedia.org/wiki/Neural_oscillation
+
 https://en.wikipedia.org/wiki/Brainwave_entrainment
 
 This app also accepts a minutes variable for precisely timed sessions.

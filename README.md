@@ -5,7 +5,7 @@ Matrix Meditation App
 ---Prototype 2014---
 By Keenan Brugh
 
-This application allows you to program your own mind. "Meta-programming", so to speak. It works by running a shell command line
+This application allows you to program your own mind. "Meta-programming", so to speak. It works by running through a shell command line
 in a console/terminal window and printing out user-defined meditations mixed in with a flow of randomly-generated characters. 
 
 The concept is combining inspirations from ancient cultural traditions (such as repeating mantras), to the modern 

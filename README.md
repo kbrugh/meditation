@@ -7,7 +7,7 @@ By Keenan Brugh
 
 This application allows you to program your own mind. This "meta-programming" works by rapidly cycling through user-defined meditations mixed in with a flow of randomly-generated characters. Use it on yourself to induce states of hypnotic relaxation or highly productive periods of focused thinking.
 
-The concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the more modern concepts of neurolinguistic programming (positive affirmations). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." "Focus on being creative." or "Learn ______" while studying _____ on another computer monitor.
+The concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the more modern concepts of neurolinguistic programming (positive affirmations). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." "Focus on being creative." or "Learn ______." while studying ______ on another computer monitor.
 
 This app also lets you select a desired target brainwave frequency. For some examples, you can choose a relaxing 10Hz alpha state or an energizing 27Hz gamma state.
 https://en.wikipedia.org/wiki/Neural_oscillation

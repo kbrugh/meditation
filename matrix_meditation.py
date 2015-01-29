@@ -25,18 +25,12 @@ if __name__ == '__main__':
     lucid(meditation)
 	
 # Next To Do:
-#
-# Select new data into the matrix. Thinking about a flow (time.date?) 
-# Add auditory tones
-# test and ensure bitrate and frequency --- close enough! - at 10 Hz, the avg error is .72ms or .00072 seconds 
-# Wanting to add a range shifting function that can move from an initial Hz to a target resulting Hz.
-# Make it hosted on the internet
-# Incentives?
-# Stimulation and relaxation - arousal levels in balance, specific for the context
-#
-# Sex, hunger(survive), need to belong
-
-
-# Use cases: eating habits,
-
-# Language considertations: use simple meditations with nouns, verbs, and adjectives
+'''
+-Select new data into the matrix. Thinking about a flow (time.date?) 
+-Add auditory tones
+-test and ensure bitrate and frequency --- close enough! - at 10 Hz, the avg error is .72ms or .00072 seconds 
+-Wanting to add a range shifting function that can move from an initial Hz to a target resulting Hz.
+-Make it hosted on the internet
+-Incentives?
+-Stimulation and relaxation - arousal levels in balance, specific for the context
+-Language considerations: use simple meditations with nouns, verbs, and adjectives'''

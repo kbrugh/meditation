@@ -4,7 +4,6 @@ def lucid(meditation):
     for i in xrange(0, int(timemax)):
         time.sleep(delay)
         print os.urandom(256), meditation, os.urandom(random.randint(0, 256))
-
  
 if __name__ == '__main__':
     meditation = raw_input("Enter meditation: ")

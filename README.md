@@ -7,7 +7,7 @@ By Keenan Brugh
 
 This application allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditations mixed in with a flow of randomly-generated characters. Use it on yourself to induce states of hypnotic relaxation or highly productive periods of focused thinking. 
 
-For a visual example used alongside Junaid Kalmadi and Adam Hewett's Brain.fm for audio entrainment, wath this brief example: https://www.youtube.com/watch?v=owbmMcK8pH4
+For a visual example used alongside Junaid Kalmadi and Adam Hewett's Brain.fm for audio entrainment, watch this brief screen capture: https://www.youtube.com/watch?v=owbmMcK8pH4
 
 The concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the more modern concepts of neurolinguistic programming (positive affirmations). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Some of my examples: "I am feeling relaxed." "Focus on being creative." or "Learn ______." while studying ______ on another computer monitor.
 

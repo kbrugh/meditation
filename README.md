@@ -25,7 +25,7 @@ NOTES on the use of scientifically unverified techniques:
 
 This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a new tool for meditation, personal reflection and self-improvement.
 
-Ancient meditation practices, neurolinguistic programming (NLP) and brainwave entrainment may or may not be as "effective" as some of their proponents have claimed. Some critics have accurately refuted certain claims, however, an outright dismissal of their potential by labelling them as "pseudoscience" ignores the history of disruptive scientific discovery. Newly discovered realities don't always fit neatly within existing paradigms. Copernicus and Newton are perfect examples of this.
+Ancient meditation practices, neurolinguistic programming and brainwave entrainment may or may not be as "effective" as some of their proponents have claimed. Some critics have accurately refuted certain claims, however, an outright dismissal of their potential by labelling them as "pseudoscience" ignores the history of disruptive scientific discovery. Newly discovered realities don't always fit neatly within existing paradigms. Copernicus and Newton are perfect examples of this.
 
 At the very least, we know placebos ARE a verifiable reality. This is why the placebo effect must be taken into account in scientific studies if they are to be generally accepted. 
 

@@ -12,10 +12,15 @@ Watch this brief screen capture for a visual example of the Matrix Meditation Ap
 The main concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the neurological models of John C. Lilly to the more modern concepts of neurolinguistic programming (NLP). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 
 Related Reading:
+
 https://en.wikipedia.org/wiki/Mantra
+
 https://en.wikipedia.org/wiki/Human_biocomputer
+
 https://en.wikipedia.org/wiki/Neural_oscillation
+
 https://en.wikipedia.org/wiki/Brainwave_entrainment
+
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ==========
@@ -31,6 +36,7 @@ Additionally, at the very least we know placebos ARE a verifiable reality. This 
 Personally, I have always been a fan of the scientific method. However, when it comes to advancing neurotechnology, let's all just admit we are still in the early stages of gathering knowledge and trying things out. Why preclude the development of potentially paradigm-shifting tools just because we're still learning? If I were to entertain a perspective counter to mainstream science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes."
 
 https://en.wikipedia.org/wiki/Placebo
+
 https://en.wikipedia.org/wiki/Epistemological_anarchism
 
 

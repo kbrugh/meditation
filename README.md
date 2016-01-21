@@ -8,7 +8,7 @@ By Keenan Brugh
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer.
 
-The brain is naturally amazing at pattern recognition, and this program takes advantage of that. It allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditaations mixed in with a flow of encryption-grade random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a timer to create a set period of learning, relaxation, or productivity. 
+Neural systems are naturally amazing at pattern recognition, and this program takes advantage of that. As a tool, it allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditations mixed in with a flow of encryption-grade random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a timer to create a set period of learning, relaxation, or productivity. 
 
 Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service) https://www.youtube.com/watch?v=e5ovB_ImIVc
 
@@ -28,8 +28,6 @@ https://en.wikipedia.org/wiki/Pomodoro_Technique
 
 ==========
 
-NOTES on the use of scientifically unverified techniques:
-
 This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a small contribution, a new tool for meditation, learning, and self-improvement.
 
 Ancient meditation practices, neurolinguistic programming and brainwave entrainment have been studied with intriguing scientific results. That said, certain products may or may not be as "effective" as some of their proponents have claimed. People are often trying to sell something, and incentives can skew science. Some critics have accurately refuted certain claims, however, an outright dismissal of all potential by labelling everything as "pseudoscience" ignores the history of disruptive scientific discovery. Newly discovered realities don't always fit neatly within existing paradigms. Copernicus and Newton are perfect examples of this.
@@ -41,5 +39,8 @@ Personally, I have always been a fan of the scientific method. However, when it 
 https://en.wikipedia.org/wiki/Placebo
 
 https://en.wikipedia.org/wiki/Epistemological_anarchism
+
+NOTE
+This is my first "Hello, World" type program made while first starting to learn the Python programming language. 
 
 

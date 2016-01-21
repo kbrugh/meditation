@@ -41,7 +41,7 @@ Personally, I have always been a fan of the scientific method. However, when it 
 https://en.wikipedia.org/wiki/Placebo
 https://en.wikipedia.org/wiki/Epistemological_anarchism
 
-NOTE
+NOTE:
 This is my first "Hello, World" type program made while first starting to learn the Python programming language. Thanks for reading about it.
 
 

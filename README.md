@@ -11,7 +11,7 @@ By Keenan Brugh
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer.
 
-Neural systems are naturally amazing at pattern recognition, and this program takes advantage of that. As a tool, it allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditations mixed in with a flow of encryption-grade random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a timer to create a set period of learning, relaxation, or productivity. 
+Neural systems are naturally amazing at pattern recognition, and this program takes advantage of that. As a tool, it allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditations mixed in with a flow of encryption-grade random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a timer to create an intentionally-set period of learning, relaxation, or productivity. 
 
 Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service) https://www.youtube.com/watch?v=e5ovB_ImIVc
 

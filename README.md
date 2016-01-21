@@ -33,6 +33,8 @@ https://www.goodreads.com/book/show/25305085-how-champions-think
 https://www.goodreads.com/book/show/10883.Benjamin_Franklin
 https://www.goodreads.com/book/show/25517689-sapiens
 http://www.thegreatcourses.com/professors/jason-m-satterfield/
+https://en.wikipedia.org/wiki/Alfred_Korzybski
+https://en.wikipedia.org/wiki/Noam_Chomsky#Linguistic_theory
 
 ==========
 

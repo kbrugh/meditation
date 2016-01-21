@@ -15,7 +15,7 @@ Neural systems are naturally amazing at pattern recognition, and this program ta
 
 Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service) https://www.youtube.com/watch?v=e5ovB_ImIVc
 
-The main concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the neurological models of John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting. Questions are also effective.
+The main concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the neurological models of John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting. Questions are also highly effective as they prompt your mind for an answer.
 
 Related Reading:
 
@@ -27,6 +27,12 @@ https://en.wikipedia.org/wiki/Human_biocomputer
 https://en.wikipedia.org/wiki/Neural_oscillation
 https://en.wikipedia.org/wiki/Brainwave_entrainment
 https://en.wikipedia.org/wiki/Pomodoro_Technique
+https://www.goodreads.com/book/show/25744928-deep-work
+https://www.goodreads.com/book/show/208245.Programming_Metaprogramming_in_the_Human_Biocomputer
+https://www.goodreads.com/book/show/25305085-how-champions-think
+https://www.goodreads.com/book/show/10883.Benjamin_Franklin
+https://www.goodreads.com/book/show/25517689-sapiens
+http://www.thegreatcourses.com/professors/jason-m-satterfield/
 
 ==========
 

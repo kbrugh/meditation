@@ -2,12 +2,15 @@ Matrix Meditation App
 ---Prototype 2015---
 By Keenan Brugh
 
+“Believe you can and you're halfway there.” 
+        -President Theodore Roosevelt
+
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer.
 
-The brain is naturally amazing at pattern recognition, and this app takes advantage of that. It allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditations mixed in with a flow of encryption-grade random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a timer to create a set period of learning, relaxation, or productivity. 
+The brain is naturally amazing at pattern recognition, and this program takes advantage of that. It allows you to program your own mind. This "self-metaprogramming" works by rapidly cycling through user-defined meditaations mixed in with a flow of encryption-grade random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a timer to create a set period of learning, relaxation, or productivity. 
 
-Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment: https://www.youtube.com/watch?v=e5ovB_ImIVc
+Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service) https://www.youtube.com/watch?v=e5ovB_ImIVc
 
 The main concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the neurological models of John C. Lilly to the more modern concepts of neurolinguistic programming (NLP). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 

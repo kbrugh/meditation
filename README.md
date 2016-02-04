@@ -19,6 +19,7 @@ The main concept is combining diverse inspirations ranging from ancient cultural
 
 Some Related Reading:
 
+https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
 http://psychology.wikia.com/wiki/Mantra
 https://en.wikipedia.org/wiki/Milton_H._Erickson
 https://en.wikipedia.org/wiki/Neuro-linguistic_programming
@@ -29,7 +30,6 @@ https://en.wikipedia.org/wiki/Brainwave_entrainment
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 https://www.goodreads.com/book/show/25744928-deep-work
 https://www.goodreads.com/book/show/208245.Programming_Metaprogramming_in_the_Human_Biocomputer
-https://www.goodreads.com/book/show/25305085-how-champions-think
 https://www.goodreads.com/book/show/10883.Benjamin_Franklin
 https://www.goodreads.com/book/show/25517689-sapiens
 http://www.thegreatcourses.com/professors/jason-m-satterfield/
@@ -51,6 +51,6 @@ https://en.wikipedia.org/wiki/Thomas_Kuhn
 https://en.wikipedia.org/wiki/Epistemological_anarchism
 
 NOTE:
-This is my first "Hello, World" type program made while first starting to learn the Python programming language. Thanks for reading about it, and please feel free to offer comments.
+This is my first "Hello, World" type program made while first starting to learn the Python programming language. Thanks for reading about it - please feel free to offer comments.
 
 

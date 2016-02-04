@@ -13,7 +13,7 @@ By Keenan Brugh
 
 Neural systems are naturally amazing at pattern recognition, and this simple algorithm takes advantage of that. Used as a tool, running this Python script in a terminal allows you to program your own mind - in a way. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a minute-timer to create an intentionally-set period of learning, relaxation, or productivity. 
 
-Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service) https://www.youtube.com/watch?v=e5ovB_ImIVc
+Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way) https://www.youtube.com/watch?v=e5ovB_ImIVc
 
 The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 
@@ -21,19 +21,23 @@ The Frequency Setting is in hertz (Hz), or cycles per second. The brain naturall
 
 For a starting guide of these brainwave ranges, the general outline of these bands is as follows:
 
-Delta (.2 - 3 Hz)
-
-Theta (3 - 8 Hz)
-
-Alpha (8 - 12 Hz)
+Delta (.2 - 3 Hz):
+        Deep Sleep. Headache relief, Reduced Anxiety, Improved Sleep.
+        
+Theta (3 - 8 Hz):
+        Relaxed/Light Sleep. Reduced Anxiety, Hypnotic Induction, Zen Meditation.
+        
+Alpha (8 - 12 Hz):
+        Awake/Relaxed. Pain Relief, Stress/Anxiety Reduction, Memory Improvement, and Meditative States.
 
 Beta (12 - 27 Hz):
         Wide Awake. Verbal/Reading Skills, Academic Achievement, Reduced Fatigue,
         
 Gamma (27+ Hz):
-        Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory.
+        Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.
 
 Study Sources:
+http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
 

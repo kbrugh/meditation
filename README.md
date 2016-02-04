@@ -1,4 +1,4 @@
-Matrix Meditation App
+Matrix Meditation Algorithm
 ---Prototype 2015---
 By Keenan Brugh
 

@@ -15,10 +15,29 @@ Neural systems are naturally amazing at pattern recognition, and this simple alg
 
 Watch this brief screen capture for a visual example of the Matrix Meditation App used alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service) https://www.youtube.com/watch?v=e5ovB_ImIVc
 
-The main concept is combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting. Questions are also highly effective as they prompt your mind to search for an answer.
+The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 
-Some Related Reading:
+The Frequency Setting is in hertz (Hz), or cycles per second. The brain naturally has many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can be charted by EEG. These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain lit/off or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, or enduce brainwave entrainment. 
 
+For a starting guide of these brainwave ranges, the general outline of these bands is as follows:
+
+Delta (.2 - 3 Hz)
+
+Theta (3 - 8 Hz)
+
+Alpha (8 - 12 Hz)
+
+Beta (12 - 27 Hz):
+        Wide Awake. Verbal/Reading Skills, Academic Achievement, Reduced Fatigue,
+        
+Gamma (27+ Hz):
+        Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory.
+
+Study Sources:
+http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
+
+
+Related Reading:
 https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
 http://psychology.wikia.com/wiki/Mantra
 https://en.wikipedia.org/wiki/Milton_H._Erickson

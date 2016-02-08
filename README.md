@@ -1,4 +1,4 @@
-Matrix Meditation Algorithm
+<bold>Matrix Meditation Algorithm</bold>
 ---Prototype 2015---
 By Keenan Brugh
 
@@ -31,7 +31,7 @@ Alpha (8 - 12 Hz):
         Awake/Relaxed. Pain Relief, Stress/Anxiety Reduction, Memory Improvement, and Meditative States.
 
 Beta (12 - 27 Hz):
-        Wide Awake. Verbal/Reading Skills, Academic Achievement, Reduced Fatigue,
+        Wide Awake. Verbal/Reading Skills, Academic Achievement, Reduced Fatigue.
         
 Gamma (27+ Hz):
         Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.

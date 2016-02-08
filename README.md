@@ -1,15 +1,15 @@
-<bold>Matrix Meditation Algorithm</bold>
+**Matrix Meditation Algorithm**
 ---Prototype 2015---
 By Keenan Brugh
 
 “Believe you can and you're halfway there.” 
-        -President Theodore Roosevelt
+        **-President Theodore Roosevelt**
         
 "You have power over your mind - not outside events. Realize this, and you will find strength."
-        -Marcus Aurelius
+        **-Marcus Aurelius**
 
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
-        -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer.
+        **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
 
 Neural systems are naturally amazing at pattern recognition, and this simple algorithm takes advantage of that. Used as a tool, running this Python script in a terminal allows you to program your own mind - in a way. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a minute-timer to create an intentionally-set period of learning, relaxation, or productivity. 
 
@@ -19,29 +19,29 @@ The main concept comes from combining diverse inspirations ranging from ancient 
 
 The Frequency Setting is in hertz (Hz), or cycles per second. The brain naturally has many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can be charted by EEG. These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain lit/off or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, or enduce brainwave entrainment. 
 
-For a starting guide of these brainwave ranges, the general outline of these bands is as follows:
+**For a starting guide of these brainwave ranges, the general outline of these bands is as follows:**
 
-Delta (.2 - 3 Hz):
+**Delta** (.2 - 3 Hz):
         Deep Sleep. Headache relief, Reduced Anxiety, Improved Sleep.
         
-Theta (3 - 8 Hz):
+**Theta** (3 - 8 Hz):
         Relaxed/Light Sleep. Reduced Anxiety, Hypnotic Induction, Zen Meditation.
         
-Alpha (8 - 12 Hz):
+**Alpha** (8 - 12 Hz):
         Awake/Relaxed. Pain Relief, Stress/Anxiety Reduction, Memory Improvement, and Meditative States.
 
-Beta (12 - 27 Hz):
+**Beta** (12 - 27 Hz):
         Wide Awake. Verbal/Reading Skills, Academic Achievement, Reduced Fatigue.
         
-Gamma (27+ Hz):
+**Gamma** (27+ Hz):
         Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.
 
-Study Sources:
+**Study Sources:**
 http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
 
-Related Reading:
+**Related Reading:**
 https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
 http://psychology.wikia.com/wiki/Mantra
 https://en.wikipedia.org/wiki/Milton_H._Erickson
@@ -73,7 +73,7 @@ https://en.wikipedia.org/wiki/Placebo
 https://en.wikipedia.org/wiki/Thomas_Kuhn
 https://en.wikipedia.org/wiki/Epistemological_anarchism
 
-NOTE:
+**NOTE:**
 This is my first "Hello, World" type program made while first starting to learn the Python programming language. Thanks for reading about it - please feel free to offer comments.
 
 

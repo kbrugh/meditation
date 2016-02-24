@@ -11,7 +11,9 @@ By Keenan Brugh
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
 
-Biological neural systems are naturally amazing at pattern recognition, and this simple algorithm takes advantage of that. Used as a tool, running this Python script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a minute-timer to create an intentionally-set period of learning, relaxation, or productivity. 
+*Biological neural systems are naturally amazing at pattern recognition*, and this simple algorithm takes advantage of that. 
+
+Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a minute-timer to create an intentionally-set period of learning, relaxation, or productivity. 
 
 Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://www.brain.fm/) 
 
@@ -60,5 +62,7 @@ https://en.wikipedia.org/wiki/Epistemological_anarchism
 
 **NOTE:**
 This is my first "Hello, World" type program made while first starting to learn the Python programming language. Thanks for reading about it - please feel free to offer comments.
+
+Also note: if you want to make this version applicable to Python3, simply change "print" to its newer function form, "print()"
 
 

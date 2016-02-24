@@ -19,7 +19,7 @@ Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this bri
 
 The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 
-The Frequency Setting is measured in hertz (Hz), or print cycles per second. The brain operates with many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can simply be measured by EEG (electroencephalography). These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain lit/off or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, or enduce brainwave entrainment. 
+The Frequency Setting is measured in hertz (Hz), or print cycles per second. The brain operates with many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can be measured by EEG (electroencephalography). These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain lit/off or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, or enduce brainwave entrainment. 
 
 **For a starting guide of these brainwave ranges, the general outline of these bands is as follows:**
 
@@ -46,7 +46,7 @@ http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
 
 ==========
-**WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a tool, *and tools can be dangerous*, so please talk to your doctor, do your research, and be careful.
+**WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a power tool, *and power tools can be dangerous*, so please talk to your doctor, do your research, and be careful.
 
 This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a small contribution, a new tool for meditation, learning, and self-improvement.
 

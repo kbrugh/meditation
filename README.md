@@ -42,25 +42,9 @@ http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
 
-**Related Reading:**
-https://en.wikipedia.org/wiki/Pattern_recognition_(psychology)
-http://psychology.wikia.com/wiki/Mantra
-https://en.wikipedia.org/wiki/Milton_H._Erickson
-https://en.wikipedia.org/wiki/Neuro-linguistic_programming
-https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
-https://en.wikipedia.org/wiki/Human_biocomputer
-https://en.wikipedia.org/wiki/Neural_oscillation
-https://en.wikipedia.org/wiki/Brainwave_entrainment
-https://en.wikipedia.org/wiki/Pomodoro_Technique
-https://www.goodreads.com/book/show/25744928-deep-work
-https://www.goodreads.com/book/show/208245.Programming_Metaprogramming_in_the_Human_Biocomputer
-https://www.goodreads.com/book/show/10883.Benjamin_Franklin
-https://www.goodreads.com/book/show/25517689-sapiens
-http://www.thegreatcourses.com/professors/jason-m-satterfield/
-https://en.wikipedia.org/wiki/Alfred_Korzybski
-https://en.wikipedia.org/wiki/Noam_Chomsky#Linguistic_theory
 
 ==========
+**WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a tool, *and tools can be dangerous*, so please talk to your doctor, do your research, and be careful.
 
 This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a small contribution, a new tool for meditation, learning, and self-improvement.
 

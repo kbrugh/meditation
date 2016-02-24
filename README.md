@@ -1,5 +1,5 @@
 **Matrix Meditation Algorithm**
----Prototype 2015---
+---Visual Brainwave Entrainment Prototype 2015---
 By Keenan Brugh
 
 “Believe you can and you're halfway there.” 

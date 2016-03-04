@@ -11,9 +11,7 @@ By Keenan Brugh
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
 
-**_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. 
-
-Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. 
+**_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. 
 
 This tool serves as a nice way to:
 

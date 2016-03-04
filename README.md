@@ -13,7 +13,12 @@ By Keenan Brugh
 
 **_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. 
 
-Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. This tool serves as a nice way to set a mental intention, entrain towards a desired brainwave frequency, and it also comes with a minute-timer to create an intentionally-set period of learning, relaxation, or productivity. 
+Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. 
+
+This tool serves as a nice way to 
+1.) Set a mental intention (meditation)
+2.) Entrain towards a desired brainwave frequency 
+3.) Create an intentionally-set period of learning, relaxation, or productivity via the timer. 
 
 Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://www.brain.fm/) 
 

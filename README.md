@@ -40,6 +40,9 @@ The Frequency Setting is measured in hertz (Hz), or print cycles per second. The
 **Gamma** (27+ Hz):
         Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.
 
+**LOW-FREQUENCY UPDATE:**
+       While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest such flashing is not a useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
+
 **Study Sources:**
 http://www.transparentcorp.com/research/Huang-PsychologicalEffectsBrainwaveEntrainmentPDF.php
 http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
@@ -56,7 +59,7 @@ Ancient meditation practices, neurolinguistic programming and brainwave entrainm
 
 Additionally, *at the very least* we know placebos ARE a verifiable reality. That fact itself is completely fascinating and worthy of more attention. 
 
-Personally, I have always been a fan of the scientific method. However, when it comes to advancing neurotechnology, let's all just admit we are still in the early stages of gathering knowledge, trying things out, and pursuing through further exploration. Why preclude the development of potentially paradigm-shifting tools just because we're still learning? If I were to entertain a perspective counter to popular science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes." Though by far most of the time, **science rules**, so if you know something relevent to the proper use of visual brainwave entrainment and/or have ideas on how to improve functionality, please contribute!
+Personally, I have always been (and continue to be) a huge fan of the scientific method. However, when it comes to advancing practical neurotechnology, let's all just admit we are still in the early stages of gathering knowledge, trying things out, and pursuing through further exploration and expirimentation. Why preclude the development of potentially paradigm-shifting tools just because we're still learning? If I were to entertain a perspective counter to popular science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes." *That said*... most of the time **science rules**, so if you know something relevent to the proper use of visual brainwave entrainment and/or have ideas on how to improve the programming/functionality, please contribute!
 
 https://en.wikipedia.org/wiki/Placebo
 https://en.wikipedia.org/wiki/Thomas_Kuhn

@@ -15,15 +15,13 @@ By Keenan Brugh
 
 **This tool serves as a nice way to:**
 
-**1.)** Set a mental intention (meditation)
+**1.)** Set a focused mental intention (meditation)
 
 **2.)** Entrain towards a desired brainwave frequency 
 
 **3.)** Create an set period of learning, relaxation, or productivity via the timer. 
 
 Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://www.brain.fm/) 
-
-The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). The process has also involved reading many, many peer-reviewed neuroscience journals, though this is an attempt at a super super simple, Pythonic solution. 
 
 The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 
@@ -54,7 +52,7 @@ http://www.transparentcorp.com/research/Huang-PsychologicalEffectsBrainwaveEntra
 http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
-
+The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this project. If you know of any, please share.
 
 ==========
 **WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a power tool, *and power tools can be dangerous*, so please talk to your doctor, do your research, and be careful.

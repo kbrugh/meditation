@@ -52,7 +52,7 @@ http://www.transparentcorp.com/research/Huang-PsychologicalEffectsBrainwaveEntra
 http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
-The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the esoteric neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this project. If you know of any, please share.
+The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the pioneering neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this project. If you know of any, please share.
 
 ==========
 **WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a power tool, *and power tools can be dangerous*, so please talk to your doctor, do your research, and be careful.

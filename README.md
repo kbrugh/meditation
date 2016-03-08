@@ -11,7 +11,7 @@ By Keenan Brugh
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
 
-**_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by a matrix of precise visual stimulation: rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation. 
+**_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by using text in a terminal as a matrix of pixels precisely stimulating the visual field. It involves rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation.
 
 **This tool serves as a nice way to:**
 
@@ -21,13 +21,13 @@ By Keenan Brugh
 
 **3.)** Create an set period of learning, relaxation, or productivity via the timer. 
 
-Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://www.brain.fm/) 
+Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://brain.fm/vip-access/?i=516 - this team makes far more advanced music than your average "binaural beats") 
 
 The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 
-The Frequency Setting is measured in hertz (Hz), or print cycles per second. The brain operates with many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can be measured by EEG (electroencephalography). These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain lit/off or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, or enduce brainwave entrainment. 
+The Frequency Setting is measured in hertz (Hz), or print cycles per second. The brain operates with many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can be measured by EEG (electroencephalography). These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain in their current state or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, i.e., enducing brainwave entrainment. (It's also called a photic driving response in some journal articles.)
 
-**For a starting guide of these brainwave ranges, the general outline of these bands is as follows:**
+**For a starting guide of brainwave ranges, the general outline of these bands is as follows:**
 
 **Delta** (.2 - 3 Hz):
         Deep Sleep. Headache relief, Reduced Anxiety, Improved Sleep.
@@ -45,14 +45,21 @@ The Frequency Setting is measured in hertz (Hz), or print cycles per second. The
         Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.
 
 **LOW-FREQUENCY UPDATE:**
-       While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest such flashing is not a useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
+       While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest that such a pace rapid flashing is not a useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
 
 **Study Sources:**
+http://www.ncbi.nlm.nih.gov/pubmed/9623880
+http://www.ncbi.nlm.nih.gov/pubmed/16515710
+http://www.ncbi.nlm.nih.gov/pubmed/11377833
+http://www.ncbi.nlm.nih.gov/pubmed/26727023
 http://www.transparentcorp.com/research/Huang-PsychologicalEffectsBrainwaveEntrainmentPDF.php
 http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
-The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the pioneering neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this project. If you know of any, please share.
+
+The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the pioneering neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this subject. If you know of any, please feel free to share.
+
+One use has been to elicit lucid dreaming. A decade ago, I might have written the prompt, "Am I awake?", in a text editor in order to cut & paste it ten thousand times in an effort to further train my brain to ask such a seemingly obvious question (while awake) and inspiring my mind to do the same reality check at night by habit, and therby induce more lucid dreams. Cutting and pasting sort of worked. Matrix Meditation works better, though it's far from complete. The future of neurotech is promising.
 
 ==========
 **WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a power tool, *and power tools can be dangerous*, so please talk to your doctor, do your research, and be careful.
@@ -63,7 +70,7 @@ Ancient meditation practices, neurolinguistic programming and brainwave entrainm
 
 Additionally, *at the very least* we know placebos ARE a verifiable reality. That fact itself is completely fascinating and worthy of more attention. 
 
-Personally, I have always been (and continue to be) a huge fan of the scientific method. However, when it comes to advancing practical neurotechnology, let's all just admit we are still in the early stages of gathering knowledge, trying things out, and pursuing through further exploration and expirimentation. Why preclude the development of potentially paradigm-shifting tools just because we're still learning? If I were to entertain a perspective counter to popular science, it would be influenced by the ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes." *That said*... most of the time **science rules**, so if you know something relevent to the proper use of visual brainwave entrainment and/or have ideas on how to improve the programming/functionality, please contribute!
+Personally, I have always been (and continue to be) a loyal fan of the scientific method. However, when it comes to advancing practical neurotechnology, let's all just admit we are still in the early stages of gathering knowledge, trying things out, and pursuing through further exploration and expirimentation. Yes - this algorithm and the scientific understanding underpinning it is currently incomplete. Why preclude the development of potentially paradigm-shifting tools just because we're still learning? If I were to entertain a perspective counter to popular science, it would be influenced by the interesting ideas of epistemological anarchism. As the scientific philosopher P.K. Feyerabend says in Against Method, "anything goes." *That said*... most of the time **science rules**, so if you know something relevent to the proper use of visual brainwave entrainment and/or have ideas on how to improve the programming/functionality, please contribute!
 
 https://en.wikipedia.org/wiki/Placebo
 https://en.wikipedia.org/wiki/Thomas_Kuhn

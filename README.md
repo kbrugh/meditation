@@ -45,7 +45,7 @@ The Frequency Setting is measured in hertz (Hz), or print cycles per second. The
         Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.
 
 **LOW-FREQUENCY UPDATE:**
-       While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest that such a pace of rapid flashing may not be a useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
+       While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest that such a pace of rapid flashing may not be the most useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
 
 **Study Sources:**
 http://www.ncbi.nlm.nih.gov/pubmed/9623880

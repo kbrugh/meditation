@@ -21,7 +21,7 @@ By Keenan Brugh
 
 **3.)** Create a set period of learning, relaxation, or productivity via the timer. 
 
-Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://brain.fm/vip-access/?i=516 - this team makes far more advanced music than your average "binaural beats") 
+Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://brain.fm/vip-access/?i=516 - this team makes far more advanced brainwave-entraining music than what is commonly sought on youtube by queries of "binaural beats" etc) 
 
 The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
 

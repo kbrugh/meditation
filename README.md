@@ -19,7 +19,7 @@ By Keenan Brugh
 
 **2.)** Entrain towards a desired brainwave frequency 
 
-**3.)** Create an set period of learning, relaxation, or productivity via the timer. 
+**3.)** Create a set period of learning, relaxation, or productivity via the timer. 
 
 Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://brain.fm/vip-access/?i=516 - this team makes far more advanced music than your average "binaural beats") 
 

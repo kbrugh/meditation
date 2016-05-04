@@ -20,6 +20,7 @@ By Keenan Brugh
 
 **_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by using text in a terminal as a matrix of pixels precisely stimulating the visual field. It involves rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation.
 
+Simply download the script, open a terminal, navigate to the script-containing directory, and run:
       python2 matrix_meditation.py
 
 **This tool serves as a nice way to:**

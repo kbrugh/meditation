@@ -11,7 +11,7 @@ By Keenan Brugh
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
     **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
 
-**Self-Metaprogramming as a Script**
+<p align="center"> **Self-Metaprogramming as a Script** </p>
 
 <p align="center">
   <img src="https://github.com/kbrugh/meditation/blob/master/matrix.gif">

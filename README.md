@@ -6,7 +6,7 @@ By Keenan Brugh
         **-President Theodore Roosevelt**
         
 "You have power over your mind - not outside events. Realize this, and you will find strength."
-        **-Marcus Aurelius**
+        **-Emperor Marcus Aurelius**
 
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
         **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
@@ -42,7 +42,7 @@ The Frequency Setting is measured in hertz (Hz), or print cycles per second. The
         Wide Awake. Verbal/Reading Skills, Academic Achievement, Reduced Fatigue.
         
 **Gamma** (27+ Hz):
-        Wide Awake. This state has clear cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects reported decreased migraine frequency.
+        Wide Awake. This state has evidence of cognitive-enhancing effects: Information Processing Speed and Visual Motor Coordination, Freedom from Distractibility, Visual Short-Term Memory and Sequencing Ability, and Arithmetic/Number Ability and Short-Term Memory. Also shows strong potential for migraine therapy as 53% of subjects in one study reported decreased migraine frequency.
 
 **LOW-FREQUENCY UPDATE:**
        While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest that such a pace of rapid flashing may not be the most useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
@@ -59,7 +59,7 @@ http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
 The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the pioneering neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this subject. If you know of any, please feel free to share.
 
-One use has been to elicit lucid dreaming. A decade ago, I might have written the prompt, "Am I awake?", in a text editor in order to cut & paste it ten thousand times in an effort to further train my brain to ask such a seemingly obvious question (while awake) and inspiring my mind to do the same reality check at night by habit, and thereby induce more lucid dreams. Cutting and pasting sort of worked. Matrix Meditation works better, though it's far from complete. The future of neurotech is promising.
+One use has been to elicit lucid dreaming. A decade ago, I would have written the prompt, "Am I awake?", in a text editor in order to cut & paste it some ten thousand times in an effort to further train my brain to ask such a seemingly obvious question (while awake) and inspiring my mind to do the same reality check at night by habit, and thereby induce more lucid dreams. For anyone interested in learning more about the science and practice of lucid dreaming, the work of Dr. Stephen LaBerge from Stanford University comes highly recommended. Cutting and pasting sort of worked. Matrix Meditation works better, though it's far from complete. While this tool is useful, it is still crude. The future of neurotech is promising.
 
 ==========
 **WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a power tool, *and power tools can be dangerous*, so please talk to your doctor, do your research, and be careful.

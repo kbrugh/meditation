@@ -2,18 +2,18 @@
 ---Visual Brainwave Entrainment Prototype 2015---
 By Keenan Brugh
 
-“Believe you can and you're halfway there.” 
-        **-President Theodore Roosevelt**
+       “Believe you can and you're halfway there.” 
+         **-President Theodore Roosevelt**
         
-"You have power over your mind - not outside events. Realize this, and you will find strength."
-        **-Emperor Marcus Aurelius**
+       "You have power over your mind - not outside events. Realize this, and you will find strength."
+            **-Emperor Marcus Aurelius**
 
-"In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
-        **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
+       "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." 
+           **-Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer**
 
 **Self-Metaprogramming**
 
-**_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by using text in a terminal as a matrix of pixels precisely stimulating the visual field. It involves rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation.
+       **_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by using text in a terminal as a matrix of pixels precisely stimulating the visual field. It involves rapidly cycling user-defined meditations mixed in with a flow of encryption-grade, entropy-derived random character generation.
 
 **This tool serves as a nice way to:**
 

@@ -29,9 +29,18 @@ Simply download the script, open a terminal, navigate to the script-containing d
 
    **3.)** Create a set period of learning, relaxation, or productivity via the timer. 
 
-Example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://brain.fm/vip-access/?i=516 - this team makes far more advanced brainwave-entraining music than what is commonly sought on youtube by queries of "binaural beats" etc) 
+To be on your way, set these three parameters through raw_input:
+<p align="center">
+  <img src="https://github.com/kbrugh/meditation/blob/master/raw_input.gif">
+  </p>
+
+Full example: https://www.youtube.com/watch?v=e5ovB_ImIVc Feel free to watch this brief screen capture for an example of the Matrix Meditation Algorithm used in a terminal alongside Junaid Kalmadi and Adam Hewett's new Brain.fm service for audio entrainment (a highly recommended service, by the way: https://brain.fm/vip-access/?i=516 - this team makes far more advanced brainwave-entraining music than what is commonly sought on youtube by queries of "binaural beats" etc) 
 
 The characters will be scrolling up the screen quickly, and your brain will recognize the written pattern many, many times. Thus, it is suggested you use short, present tense, positive, personal and specific statements. Questions are also highly effective as they prompt your mind to search for an answer. If you go longer than a short sentence, try to make all the words fit appropriately enough any which way as your brain may be reading the words in a random order, depending on how fast you set your frequency setting.
+
+<p align="center">
+  <img src="https://github.com/kbrugh/meditation/blob/master/code.gif">
+  </p>
 
 The Frequency Setting is measured in hertz (Hz), or print cycles per second. The brain operates with many wavelike processes on different levels, though on the macro level, there are bands of frequencies that can be measured by EEG (electroencephalography). These frequencies are reproducibly measurable and can be accurately associated with different conscious states and experiences, such as restfulness and alertness. These waves are directly connected to what a person is doing, thinking, or feeling. By using a time_delay variable that's tied to the user-defined Hz, the entire screen becomes a series of character pixel components to either remain in their current state or change to the opposite state, multiple times per second. The hypothesis is that such regularly timed visual stimuli will elicit a following response, i.e., inducing brainwave entrainment. (It's also called a *photic driving response* in some journal articles.)
 

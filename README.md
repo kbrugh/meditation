@@ -1,6 +1,6 @@
 **Matrix Meditation Algorithm** for Self-Metaprogramming (SMP) - A Learning, Productivity, and Mind-Focusing Tool
-<p>---Visual Brainwave Entrainment Prototype 2015---</p>
-Created by Keenan Brugh
+<p align="center">---Visual Brainwave Entrainment Prototype 2015---</p>
+<p align="right"> Created by Keenan Brugh </p>
 <p align="center"> <i>
 “Believe you can and you're halfway there.” -Theodore Roosevelt
        </i></p>

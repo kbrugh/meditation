@@ -1,14 +1,14 @@
 **Matrix Meditation Algorithm**
 ---Visual Brainwave Entrainment Prototype 2015---
 Created by Keenan Brugh
-<p align="center"> 
-*“Believe you can and you're halfway there.” -President Theodore Roosevelt*
+<p align="center"> <i>
+“Believe you can and you're halfway there.” -President Theodore Roosevelt
        
-*"You have power over your mind - not outside events. Realize this, and you will find strength." -Emperor Marcus Aurelius*
+"You have power over your mind - not outside events. Realize this, and you will find strength." -Emperor Marcus Aurelius
 
-*"In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer*
-</p>
-<b>Self-Metaprogramming as a Script </b>
+"In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer
+</i></p>
+<b>Self-Metaprogramming as a Script: </b>
 
 <p align="center">
   <img src="https://github.com/kbrugh/meditation/blob/master/matrix.gif">

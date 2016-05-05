@@ -1,4 +1,4 @@
-**Matrix Meditation Algorithm**
+**Matrix Meditation Algorithm** for Self-Metaprogramming (SMP) - A Learning, Productivity, and Mind-Focusing Tool
 ---Visual Brainwave Entrainment Prototype 2015---
 Created by Keenan Brugh
 <p align="center"> <i>

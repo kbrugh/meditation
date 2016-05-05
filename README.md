@@ -65,6 +65,7 @@ The Frequency Setting is measured in hertz (Hz), or print cycles per second. The
        While the idea of visually inducing Delta and Theta patterns may be desirable, recent evidence may suggest that such a pace of rapid flashing may not be the most useful way to do so, as 5 hz is still 300 flashes per minute and that may be too rapid and too stimulating compared to the relaxation state desired. Further research is required, but for now, it might be recommended that you stick with the Alpha, Beta, and Gamma ranges.
 
 **Study Sources:**
+http://www.ncbi.nlm.nih.gov/pubmed/52446
 http://www.ncbi.nlm.nih.gov/pubmed/9623880
 http://www.ncbi.nlm.nih.gov/pubmed/16515710
 http://www.ncbi.nlm.nih.gov/pubmed/11377833
@@ -74,7 +75,7 @@ http://bmcneurosci.biomedcentral.com/articles/10.1186/1471-2202-7-21
 http://jtoomim.org/brain-training/brain%20wave%20entrainment%20and%20WISC.pdf
 
 
-The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras) to the pioneering neurological models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP) and cognitive-behavioral therapy (CBT). I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this subject. If you know of any, please feel free to share.
+The main concept comes from combining diverse inspirations ranging from ancient cultural traditions (repeating mantras), the pioneering work of Hans Berger on electroencephalography, some esoteric neurological-programming models of Dr. John C. Lilly to the more modern concepts of neurolinguistic programming (NLP), cognitive-behavioral therapy (CBT) and research on neuroplasticity. I'm constantly trying to find peer-reviewed neuroscience journal articles that might relate to this subject. If you know of any, please feel free to share.
 
 One more experimental use has been eliciting lucid dreaming. A decade ago, I would have written the prompt, "Am I awake?", in a text editor in order to cut & paste it some ten thousand times in an effort to further train my brain to ask such a seemingly obvious question (while awake) and inspiring my mind to do the same reality check at night by habit, and thereby induce more lucid dreams. For anyone interested in learning more about the science and practice of lucid dreaming, the work of Dr. Stephen LaBerge from Stanford University comes highly recommended. Cutting and pasting sort of worked. Matrix Meditation works better, though it's far from complete. While this tool is useful, it is still crude. The future of neurotech is promising.
 

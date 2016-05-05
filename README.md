@@ -17,7 +17,7 @@ Created by Keenan Brugh
 
 **_Biological neural systems are naturally amazing at pattern recognition_**, and this simple algorithm takes advantage of that. Used as a tool, running this Python (version 2) script in a terminal allows you to program your own mind - *in a way*. This particular form of "self-metaprogramming" works by using text in a terminal as a matrix of pixels precisely stimulating the visual field.  This relatively simple neurohacking program involves rapidly cycling a flow of encryption-grade, entropy-derived random character generation to provide a stark contrast for the user-defined meditation. Such programming can be used to set a useful mental frame such as a deep, creative state of focus.
 
-Open a terminal, navigate to the script-containing directory, and run:
+To start down the rabbit hole, first open a terminal, then navigate to the script-containing directory, and run:
 
       python2 matrix_meditation.py
 
@@ -29,7 +29,7 @@ Open a terminal, navigate to the script-containing directory, and run:
 
    **3.)** Create a set period of learning, relaxation, or productivity via the timer. 
 
-To be on your way, set these three parameters through raw_input:
+To be on your way, enter these three parameters through raw_input:
 <p align="center">
   <img src="https://github.com/kbrugh/meditation/blob/master/raw_input.gif">
   </p>

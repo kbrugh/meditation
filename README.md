@@ -10,7 +10,7 @@
 <p align="center">  <i>
 "In the province of the mind what one believes to be true, either is true or becomes true within certain limits. These limits are to be found experimentally and experientially." -Dr. John C. Lilly, author of Programming and Metaprogramming in the Human Biocomputer
 </i></p>
-<b>Self-Metaprogramming as a Script: </b>
+<b>Self-Metaprogramming Matrix: </b>
 
 <p align="center">
   <img src="https://github.com/kbrugh/meditation/blob/master/matrix.gif">

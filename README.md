@@ -86,7 +86,7 @@ One more experimental use has been eliciting lucid dreaming. A decade ago, I wou
 ==========
 **WARNING** especially to people with known photosenitive epilepsy: running this script irresponsibly could result in seizures. It is a power tool, *and power tools can be dangerous*, so please talk to your doctor, do your research, and be careful.
 
-This app does not make any medical or therapeutic claims. Rather, the goal of this app is to provide a small contribution, a new tool for meditation, learning, and self-improvement.
+This author and this program do not make any medical or therapeutic claims. Rather, the goal is to provide a small contribution, a new tool for meditation, learning, and experimental self-improvement.
 
 Ancient meditation practices, neurolinguistic programming and brainwave entrainment have been studied with intriguing scientific results. That said, certain products out there may or may not be as "effective" as some of their proponents have claimed. Some people are just trying to sell something, and such incentives can sometimes skew science in different ways. Some critics have accurately refuted certain claims of charlatans, however, an outright dismissal of all potential by labelling everything as "pseudoscience" in a reactionary, unsophisticated way ignores the history of disruptive scientific discovery. We'll all try our best and pursue science, of course. Knowledge can come from seemingly unscientific sources, however, and newly discovered scientific realities don't always fit neatly within existing paradigms.
 

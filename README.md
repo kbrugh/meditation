@@ -103,5 +103,21 @@ This is my first "Hello, World" type program made while first starting to learn 
 **Python2 Python3 NOTE:** if you want to make this version applicable to Python3, simply change "print" to its newer function form, "print()". Also, Raw_input might be replaced with simply "input" - I might test it here soon, but it's only 12 lines of code, so it should be easy enough to debug if anything else unexpected pops up.
 
 **FREE SOFTWARE LICENSING:**
-This project is licensed under **GPLv3**, is **Free Software**, and is **intended to remain that way**. Hackers are always welcome!
-http://www.gnu.org/licenses/quick-guide-gplv3.en.html
+This project is licensed under **GPLv3**, is **Free Software**, and is **intended to remain that way**. 
+<p align="center"> Hackers are always welcome! </p>
+
+**What is Free Software?** (from gnu.org)
+
+Free software means the users have the freedom to run, copy, distribute, study, change and improve the software.
+
+Free software is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech”, not as in “free beer”.
+
+More precisely, free software means users of a program have the four essential freedoms:
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+The freedom to study how the program works, and adapt it to your needs (freedom 1). Access to the source code is a precondition for this.
+The freedom to redistribute copies so you can help your neighbor (freedom 2).
+The freedom to improve the program, and release your improvements to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this.
+Developments in technology and network use have made these freedoms even more important now than they were in 1983.
+
+For more information on GNU GPLv3, please see: http://www.gnu.org/licenses/quick-guide-gplv3.en.html

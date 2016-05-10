@@ -108,7 +108,7 @@ __________________________________________________________________
 This project is licensed under **GPLv3** and is **Free Software**. 
 <p></p><p align="center"> Hackers are always welcome! </p>
 
-**What is Free Software?** (from gnu.org)
+**What is Free Software?** (from www.gnu.org)
 
 Free software means the users have the freedom to run, copy, distribute, study, change and improve the software.
 

@@ -1,5 +1,5 @@
 **Matrix Meditation Algorithm** for Self-Metaprogramming (SMP) - A Learning, Productivity, and Mind-Focusing Tool
-<p align="center">Visual Brainwave Entrainment Prototype 2015 - This project is licensed under GPLv3 and is Free Software.</p>
+<p align="center">Visual Brainwave Entrainment Prototype 2015 - This project is copylefted and licensed under GPLv3 and is Free Software.</p>
 <p align="right"> Created by Keenan Brugh </p>
 <p align="center"> <i>
 “Believe you can and you're halfway there.” -Theodore Roosevelt

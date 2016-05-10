@@ -116,10 +116,14 @@ Free software is a matter of liberty, not price. To understand the concept, you 
 
 More precisely, free software means users of a program have the four essential freedoms:
 
-The freedom to run the program as you wish, for any purpose (freedom 0).
-The freedom to study how the program works, and adapt it to your needs (freedom 1). Access to the source code is a precondition for this.
-The freedom to redistribute copies so you can help your neighbor (freedom 2).
-The freedom to improve the program, and release your improvements to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this.
+       The freedom to run the program as you wish, for any purpose (freedom 0).
+
+       The freedom to study how the program works, and adapt it to your needs (freedom 1). Access to the source code is a precondition for this.
+
+       The freedom to redistribute copies so you can help your neighbor (freedom 2).
+
+       The freedom to improve the program, and release your improvements to the public, so that the whole community benefits (freedom 3). Access to the source code is a precondition for this.
+
 Developments in technology and network use have made these freedoms even more important now than they were in 1983.
 
 For more information on GNU GPLv3, please see: http://www.gnu.org/licenses/quick-guide-gplv3.en.html

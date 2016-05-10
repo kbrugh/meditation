@@ -103,5 +103,5 @@ This is my first "Hello, World" type program made while first starting to learn 
 **Python2 Python3 NOTE:** if you want to make this version applicable to Python3, simply change "print" to its newer function form, "print()". Also, Raw_input might be replaced with simply "input" - I might test it here soon, but it's only 12 lines of code, so it should be easy enough to debug if anything else unexpected pops up.
 
 **FREE SOFTWARE LICENSING:**
-This project is licensed under **GPLv3**, is **Free Software**, and is intended to remain that way. Hackers are always welcome!
+This project is licensed under **GPLv3**, is **Free Software**, and is **intended to remain that way**. Hackers are always welcome!
 http://www.gnu.org/licenses/quick-guide-gplv3.en.html

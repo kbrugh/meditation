@@ -108,7 +108,7 @@ __________________________________________________________________
 
 **FREE SOFTWARE LICENSING:**
 This project is licensed under **GPLv3** and is **Free Software**. 
-<p></p><p align="center"> Hackers are always welcome! </p>
+<p></p><p align="center"> </p>
 
 **What is Free Software?** (from www.gnu.org)
 

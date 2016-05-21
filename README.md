@@ -96,10 +96,6 @@ Personally, I have always been (and continue to be) a loyal fan of the scientifi
 
 *That said*... when we say **science rules**, that science can include an understanding of such methodological pluralism, so if you'd like to share something relevent here and/or have ideas on how to improve the programming and functionality, please feel free to contribute!
 
-https://en.wikipedia.org/wiki/Placebo
-https://en.wikipedia.org/wiki/Thomas_Kuhn
-https://en.wikipedia.org/wiki/Epistemological_anarchism
-
 This is my first "Hello, World" type program made while first starting to learn the Python programming language. Thanks for reading about it!
 
 **Python2 Python3 NOTE:** if you want to make this version applicable to Python3, simply change "print" to its newer function form, "print()". Also, Raw_input might be replaced with simply "input" - I might test it here soon, but it's only 12 lines of code, so it should be easy enough to debug if anything else unexpected pops up.
